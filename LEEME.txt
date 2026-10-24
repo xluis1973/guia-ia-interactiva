@@ -1,0 +1,7 @@
+GUÍA INTERACTIVA DE INTELIGENCIA ARTIFICIAL
+
+1. Abrí index.html en Chrome, Edge o Firefox.
+2. Elegí un tema y usá los botones Visualizar o Descargar.
+3. Para publicar en GitHub Pages, subí index.html y la carpeta assets/ a la raíz del repositorio. En Settings > Pages, seleccioná Deploy from a branch, la rama principal y la carpeta raíz.
+
+IMPORTANTE: mantené la carpeta assets junto al archivo index.html. Los cinco documentos originales están incluidos. El visor PDF funciona mejor cuando el sitio está publicado (GitHub Pages u otro hosting), aunque puede funcionar también de forma local según el navegador.
